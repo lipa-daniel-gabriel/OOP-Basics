@@ -1,1 +1,1 @@
-# temaSCIT
+# OOP
